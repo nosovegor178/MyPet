@@ -1,0 +1,11 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color : #ffc910; 
+  font-family : Halvetica,sans-serif;
+  text-align : center;
+}
+img{
+  height: 60%;
+  width: 50%;
+}
